@@ -1,3 +1,5 @@
+[requirements.txt](https://github.com/user-attachments/files/28974075/requirements.txt)
+
 # Calculadora-kpis-logistica
 # Calculadora sencilla de Indicadores Logísticos 
 
