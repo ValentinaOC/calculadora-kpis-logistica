@@ -26,4 +26,5 @@ Aplicación que permite ingresar datos operativos y calcular automáticamente KP
 Reducción del tiempo calculado y estandarización de indicadores
 
 ## Link del codigo
-[calculadora_logistica.py](https://github.com/user-attachments/files/28970396/calculadora_logistica.py)
+[calculadora_logistica.py](https://github.com/user-attachments/files/28975044/calculadora_logistica.py)
+
