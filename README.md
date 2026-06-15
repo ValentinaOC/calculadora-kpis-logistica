@@ -3,7 +3,8 @@
 # Calculadora-kpis-logistica
 # Calculadora sencilla de Indicadores Logísticos 
 
-## Descripción
+## Descripción[calculadora_logistica.py](https://github.com/user-attachments/files/28974848/calculadora_logistica.py)
+
 Esta es una aplicación interactiva desarrollada en Python con **Streamlit** diseñada para automatizar y calcular de manera sencilla los principales KPIs (Key Performance Indicators) de una operación logística, facilitando la visualizacion de errores y toma de desiciones basadas en los datos de una operacion real.
 
 ## problema
