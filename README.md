@@ -28,5 +28,5 @@ Si desea ejecutar este proyecto localmente, siga estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/ValentinaOC/calculadora-kpis-logistica](https://github.com/ValentiaOC/calculadora-kpis-logistica.git)
+   git clone [https://github.com/ValentinaOC/calculadora-kpis-logistica.git](https://github.com/ValentiaOC/calculadora-kpis-logistica.git)
 
