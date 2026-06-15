@@ -1,5 +1,3 @@
-[requirements.txt](https://github.com/user-attachments/files/28974999/requirements.txt)
-
 
 # Calculadora-kpis-logistica
 # Calculadora sencilla de Indicadores Logísticos 
@@ -25,6 +23,10 @@ Aplicación que permite ingresar datos operativos y calcular automáticamente KP
 ## Resultado
 Reducción del tiempo calculado y estandarización de indicadores
 
-## Link del codigo
-[calculadora_logistica.py](https://github.com/user-attachments/files/28975044/calculadora_logistica.py)
+## Instalación y Uso
+Si desea ejecutar este proyecto localmente, siga estos pasos:
+
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/ValentinaOC/calculadora-kpis-logistica](https://github.com/ValentiaOC/calculadora-kpis-logistica.git)
 
