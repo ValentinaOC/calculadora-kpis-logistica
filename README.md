@@ -30,3 +30,6 @@ Si desea ejecutar este proyecto localmente, siga estos pasos:
    ```bash
    git clone [https://github.com/ValentinaOC/calculadora-kpis-logistica.git](https://github.com/ValentiaOC/calculadora-kpis-logistica.git)
 
+## Demostración en Vivo
+Puedes probar la aplicación interactiva directamente en tu navegador haciendo clic en el siguiente enlace:
+[![Streamlit App](https://streamlit.io)](https://logistics-kpi-calculator.streamlit.app/)
